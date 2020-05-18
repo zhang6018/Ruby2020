@@ -16,3 +16,7 @@
 1. HTML
 1. C
 
+## PythonでのHello world
+```
+print("Hello,world!");
+```
