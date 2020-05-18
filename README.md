@@ -6,10 +6,8 @@
 - 焼肉
 
 ## 使ったことがあるプログラミング言語
-- BASIC
-- PASCAL
+- HTML
+- CSS
 - C
-- Java
 - Ruby
 - Python
-- Elixir
