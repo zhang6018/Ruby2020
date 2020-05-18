@@ -11,3 +11,8 @@
 - C
 - Ruby
 - Python
+
+## 得意な言語
+
+1.python
+
