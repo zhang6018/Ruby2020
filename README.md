@@ -13,8 +13,6 @@
 - Python
 
 ## 得意な言語
-
-1.python
-
-2.HTML
+1. HTML
+1. C
 
