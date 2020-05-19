@@ -37,7 +37,7 @@ sum(list)
 list1 = [10,30,20,50,40]
 max(list1)
 ```
-## Pythonでの合計関数
+## Pythonでの合計の関数
 ```
 def sum2(x,y):
     print(x + y);
