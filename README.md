@@ -20,3 +20,27 @@
 ```
 print("Hello,world!");
 ```
+## Pythonでの図形表示
+```
+print("""
+oxoxoxo
+xoxoxox
+oxoxoxo""")
+```
+## Pythonでの合計
+```
+list = [20,30]
+sum(list)
+```
+## Pythonでの最大の値
+```
+list1 = [10,30,20,50,40]
+max(list1)
+```
+## Pythonでの合計関数
+```
+def sum2(x,y):
+    print(x + y);
+
+sum2(50,30)
+```
