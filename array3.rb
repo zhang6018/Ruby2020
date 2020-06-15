@@ -11,3 +11,6 @@ a3.push 10
 p a3
 a3.push "a"
 p a3
+x = a3.pop
+p x
+p a3
