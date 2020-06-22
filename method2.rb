@@ -5,6 +5,7 @@ def myMax(x , y)
         y
     end
 end
+
 x=ARGV[0].to_i
 puts myMax x
 puts myMax y
